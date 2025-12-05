@@ -266,22 +266,6 @@ SQL-Data-Analysis-Projects/
 
 ---
 
-## 📫 Connect With Me
-
-**Mariam Iftikhar**  
-MS Business Analytics Student | Graduate Research Assistant  
-Roosevelt University
-
-- 💼 **LinkedIn:** [linkedin.com/in/mariam-iftikhar](https://linkedin.com/in/mariam-iftikhar)
-- 📧 **Email:** mariamiftikhar127@gmail.com
-- 🌐 **GitHub:** [@Mariam-iftikhar](https://github.com/Mariam-iftikhar)
-- 📊 **Other Portfolios:** 
-  - [Excel Projects Portfolio](https://github.com/Mariam-iftikhar/Excel-Portfolio)
-  - [Professional Certifications](https://github.com/Mariam-iftikhar/Certificates)
-  - [Power BI Dashboards](https://github.com/Mariam-iftikhar)
-
----
-
 ## ⭐ Key Strengths
 
 1. **Query Complexity:** Ability to write complex multi-table queries with CTEs and window functions
