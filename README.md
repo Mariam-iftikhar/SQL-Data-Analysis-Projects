@@ -282,19 +282,6 @@ Roosevelt University
 
 ---
 
-## 🎯 Career Objectives
-
-I am actively seeking opportunities in:
-- **Business Intelligence Analyst**
-- **Data Analyst**
-- **SQL Developer**
-- **Business Analyst (Data-Focused)**
-- **Data Engineer (Entry-Level)**
-
-With strong SQL fundamentals, analytical thinking, and business acumen, I am prepared to contribute immediately to data-driven organizations.
-
----
-
 ## ⭐ Key Strengths
 
 1. **Query Complexity:** Ability to write complex multi-table queries with CTEs and window functions
@@ -324,15 +311,6 @@ This repository is actively maintained and regularly updated with new projects, 
 
 ---
 
-## 🚀 Future Additions
-
-- Advanced time-series forecasting with SQL
-- Graph database queries
-- Real-time data streaming analytics
-- Integration with Python for extended analysis
-- Performance benchmarking studies
-
----
 
 ## 📝 License
 
